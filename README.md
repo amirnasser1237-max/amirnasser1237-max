@@ -1,7 +1,7 @@
 # Hi I'm Amir Nasr 👋🎨  
 
-[![Linkedin Badge](https://img.shields.io/badge/-Amir%20Nasr-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YOUR-LINK/)](https://www.linkedin.com/in/YOUR-LINK/)
-[![Behance Badge](https://img.shields.io/badge/-Behance-1769FF?style=flat&logo=behance&logoColor=white&link=https://www.behance.net/YOUR-LINK)](https://www.behance.net/YOUR-LINK)
+[![Linkedin Badge](https://www.linkedin.com/in/amir-nasr-ali/)
+[![Behance Badge](https://www.behance.net/Amir_Nasr_Ali)](https://www.behance.net/YOUR-LINK)
 [![Instagram Badge](https://img.shields.io/badge/-@yourusername-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/YOUR-LINK)](https://instagram.com/YOUR-LINK)
 [![Gmail Badge](https://img.shields.io/badge/-yourmail@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yourmail@gmail.com)](mailto:yourmail@gmail.com)
 
